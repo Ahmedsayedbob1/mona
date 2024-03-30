@@ -1,6 +1,6 @@
 telethon==1.29.0
 kvsqlite==0.2.1
-asyncio==3.5.4
+asyncio==3.8.10
 aiosqlite==0.23.0
 opentele.api==0.5.2
 pyrogram==2.1.6
